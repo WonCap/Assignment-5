@@ -4,5 +4,3 @@ if a not in sheet:
     print('Student not found.')
 else:
     print(f"{a}'s marks: {sheet[a]}")
-
-
